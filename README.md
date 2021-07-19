@@ -1,1 +1,1 @@
-# guessing_game
+# A simple guessing game built with vanilla JavaScript
